@@ -1,0 +1,384 @@
+{
+	"settings":{
+		"title":"Abiral Neupane | Agileholic",
+		"logo":"",
+		"favicon":"http://abiralneupane.com.np/data/data/favicon.png",
+		"favicon_72":"http://abiralneupane.com.np/data/data/favicon-72.png",
+		"favicon_114":"http://abiralneupane.com.np/data/data/favicon-114.png",
+		"favicon_144":"http://abiralneupane.com.np/data/data/favicon-144.png",
+		"ms_logo_70x70":"http://abiralneupane.com.np/data/data/ms-application/logo-70x70.png",
+		"ms_logo_150x150":"http://abiralneupane.com.np/data/data/ms-application/logo-150x150",
+		"ms_logo_310x150":"http://abiralneupane.com.np/data/data/ms-application/logo-310x150",
+		"ms_logo_310x310":"http://abiralneupane.com.np/data/data/ms-application/logo-310x310",		
+		"block_color":"#b62a2a",
+		"block_title":"Abiral Neupane",
+		"meta_title":"Abiral Neupane | Agileholic",
+		"meta_keys":"web developer, Agileholic, agile, Customer Statisfaction, Programmer,Developer,Freelancer, open source expert, PHP programmer in Nepal, Web programmer in nepal, Web developer in nepal",
+		"meta_desc":"I am a Web developer from Kathmandu, Nepal. I make things that live on web, and my moto is customer statisfaction. I am available as freelancer",
+		"content_type":"text/html; charset=UTF-8"
+	},
+	"home":{
+		"title":"Abiral",
+		"tagline":"web developer",
+		"from": "I AM FROM</span> EARTH",
+		"work":"<span>I MAKE THINGS</span> that live on Web",
+		"moto":"<span>MY MOTTO IS</span> Customer Satisfaction",
+		"status":"<span>FREELANCE</span> Available",
+		"cover":"http://abiralneupane.com.np/data/data/cover-802x700.jpg",
+		"headshot":"http://abiralneupane.com.np/data/data/photo.jpg",
+		"resume":"http://abiralneupane.com.np/data/data/files/resume.pdf"
+	},
+	"profile":{
+		"introduction":"<p class=intro>Hello, I am a <strong class=focused>passionate web developer</strong> who loves to make websites that &apos;function&apos; &amp; &apos;sparkle&apos; located in Kathmandu, Nepal.</p><p>I, as an <strong class=focused>experienced developer</strong> believe, every system being created should solve the problem that aroused before. So, as a follower of <strong class=focused>Agile Methodology of Software Engineering</strong>, I prefer communication as much as possible to make sure what I am building suits your requirement.</p><p>Thus, <strong class=focused>Your Satisfaction</strong> goes on the top of my priority list.</p>",
+		"name":"Abiral Neupane",
+		"age":"25",
+		"dob":"March 17, 1991",
+		"address":"Kalanki-14, Kathmandu",
+		"country":"Nepal",
+		"email":"abiral.neupane@gmail.com",
+		"phone":"+977-984-313-4111",
+		"website":"http://abiralneupane.com.np",
+		"profile_image":"http://abiralneupane.com.np/data/data/profile_image.jpg"
+	},
+	"process":[
+		{
+			"title":"Feasibility Study",
+			"font_icon":"fa fa-file-o",
+			"description":""
+		},
+		{
+			"title":"Planning",
+			"font_icon":"fa fa-line-chart",
+			"description":""
+		},
+		{
+			"title":"Development Iterations",
+			"font_icon":"fa fa-cogs",
+			"description":""
+		},
+		{
+			"title":"Continuous  Iterations",
+			"font_icon":"fa fa-refresh",
+			"description":""
+		},
+		{
+			"title":"Testing",
+			"font_icon":"fa fa-check-circle-o",
+			"description":""
+		},
+		{
+			"title":"Deployment",
+			"font_icon":"fa fa-rocket",
+			"description":""
+		}
+	],
+	"resume":{
+		"employment":[
+			{
+				"time":"2015 - Present",
+				"position":"Web Developer",
+				"company":"eVision IT",
+				"address":"Bansbari, Kathmandu",
+				"description":"Working as Django &amp; WordPress Developer "
+			},
+			{
+				"time":"2014 - 2015",
+				"position":"Senior Web Developer",
+				"company":"Nepit Solutions Pvt. Ltd",
+				"address":"Mandikhatar, Kathmandu",
+				"description":"Worked as a Senior Web Developer"
+			},
+			{
+				"time":"June 2013- Sep 2013",
+				"position":"Intern",
+				"company":"Access Keys Pvt. Ltd",
+				"address":"Mathuri Bhawan, Kathmandu",
+				"description":"Worked as Intern on core PHP, Code Igniter, and YII"
+			}
+		],
+		"education":[
+			{
+				"time":"Since 2014",
+				"level":"MSc. IT",
+				"service_center":"Institute of International Management Science",
+				"score":"",
+				"address":"Dhobidhara, Kathmandu",
+				"description":"In the affiliation of Lovely Professional University, Punjaab"
+			},
+			{
+				"time":"2009 - 2013",
+				"level":"BIM",
+				"service_center":"KCMIT",
+				"score":"3.54",
+				"address":"Old Baneshwor, Kathmandu",
+				"description":"Graduated with 3.54 CGPA from Kantipur College of Management and Information Technology in the affiliation of Tribhuwan University, Nepal"
+			},
+			{
+				"time":"2006 - 2009",
+				"level":"Intermediate in Science",
+				"service_center":"New Horizon College",
+				"score":"57.6%",
+				"address":"Yogikuti, Rupandehi",
+				"description":"Passed with 57.6% in the affiliation of HSEB, Nepal"
+			},
+			{
+				"time":"2006",
+				"level":"SLC",
+				"service_center":"Butwal Elite English School",
+				"score":"77%",
+				"address":"Butwal, Rupandehi",
+				"description":"Passed with 77% in the affiliation of HMG Board"
+			}
+		],
+		"hard_skills":[
+			{
+				"title":"PHP",
+				"level":"95"
+			},
+			{
+				"title":"jQuery",
+				"level":"80"
+			},
+			{
+				"title":"WordPress",
+				"level":"95"
+			},
+			{
+				"title":"Django",
+				"level":"50"
+			},
+			{
+				"title":"HTML/HTML5",
+				"level":"85"
+			},
+			{
+				"title":"CSS/CSS3",
+				"level":"60"
+			},
+			{
+				"title":"BootStrap",
+				"level":"80"
+			},
+			{
+				"title":"SEO",
+				"level":"50"
+			},
+			{
+				"title":"SMARTY",
+				"level":"60"
+			},
+			{
+				"title":"Drupal",
+				"level":"40"
+			},
+			{
+				"title":"Shopify",
+				"level":"70"
+			}
+		],
+		"soft_skills":[
+			{
+				"title":"Team Work",
+				"level":"98"
+			},
+			{
+				"title":"Communication",
+				"level":"95"
+			},
+			{
+				"title":"Accountable",
+				"level":"99"
+			},
+			{
+				"title":"Mentoring",
+				"level":"95"
+			},
+			{
+				"title":"Proactive",
+				"level":"99"
+			},
+			{
+				"title":"Pro. Ethics",
+				"level":"90"
+			},
+			{
+				"title":"Self Learning",
+				"level":"95"
+			},
+			{
+				"title":"Taking Initiative",
+				"level":"90"
+			}
+		],
+		"hobbies":[
+			{
+				"title":"Programming",
+				"icon":"",
+				"font_icon":"fa fa-futbol-o"
+			},
+			{
+				"title":"Music",
+				"icon":"",
+				"font_icon":"fa fa-headphones"
+			},
+			{
+				"title":"Football",
+				"icon":"",
+				"font_icon":"fa fa-futbol-o"
+			},
+			{
+				"title":"Travelling",
+				"icon":"",
+				"font_icon":"fa fa-car"
+			},
+			{
+				"title":"Video games",
+				"icon":"",
+				"font_icon":"fa fa-gamepad"
+			},
+			{
+				"title":"Movies",
+				"icon":"",
+				"font_icon":"fa fa-video-camera"
+			},
+			{
+				"title":"Photography",
+				"icon":"",
+				"font_icon":"fa fa-camera"
+			}
+		],
+		"tools":["Adobe PhotoShop","GIT","PyCharms","Sublime Text","FileZilla","Tortoise SVN"],
+		"services":[
+			{
+				"title":"Desktop Application",
+				"icon":"icon-laptop",
+				"font_icon":"fa fa-laptop",
+				"description":"Desktop Application development using C# .NET"
+			},
+			{
+				"title":"Web Application",
+				"icon":"icon-globe",
+				"font_icon":"fa fa-globe",
+				"description":"PHP &amp; JavaScript based interactive web application development"
+			},
+			{
+				"title":"Support",
+				"icon":"icon-lightbulb",
+				"font_icon":"fa fa-lightbulb-o",
+				"description":"Need any help? Contact me without any hesitation"
+			}
+		]
+	},
+	"portfolio":{
+		"sites":[
+			{
+				"title":"Namaste Nepal",
+				"link_title":"See Live",
+				"thumb":"http://abiralneupane.com.np/data/data/portfolio/namaste-thumb.jpg",
+				"medium":"http://abiralneupane.com.np/data/data/portfolio/namaste-770.jpg",
+				"large":"http://abiralneupane.com.np/data/data/portfolio/namaste.jpg",
+				"url":"http://namastenepal.info/",
+				"excerpt":"Namaste Nepal is a knowledege portal, through which we folks share our experience and thoughts",
+				"description":"Namaste Nepal is specially meant for someone who is unknown about Nepal's history, custom and traditions, and so on and so forth. Anyone can request for a blog composition, and they can share their experience, knowledge and thoughts through the site."
+			},
+			{
+				"title":"Legion Training",
+				"link_title":"See Live",
+				"thumb":"http://abiralneupane.com.np/data/data/portfolio/legion-thumb.jpg",
+				"medium":"http://abiralneupane.com.np/data/data/portfolio/legion-770.jpg",
+				"large":"http://abiralneupane.com.np/data/data/portfolio/legion.jpg",
+				"url":"http://legiontraining.com/",
+				"excerpt":"An online portal for improving your health & Fitness",
+				"description":"Legion Training is an approach/service/product/vehicle to delivering the solution on a much needed world-wide body transformation dilemma. Its their commitment, their absolute passion, and therefore their mission to provide a step-by-step, no guessing, lifestyle approach designed to deliver amazing physique altering results – all by following a number of lifestyle changes that fit comfortably into just about any type of present lifestyle imaginable."
+			},
+			{
+				"title":"Sama Offers",
+				"link_title":"See Live",
+				"thumb":"http://abiralneupane.com.np/data/data/portfolio/sama-thumb.jpg",
+				"medium":"http://abiralneupane.com.np/data/data/portfolio/sama-770.jpg",
+				"large":"http://abiralneupane.com.np/data/data/portfolio/sama.jpg",
+				"url":"http://samaoffers.com/",
+				"excerpt":"A Bussiness Portal for offer promotions",
+				"description":"Sama Offers is a portal via which a business personnel can promote their offers to their subscribers."
+			},
+			{
+				"title":"Panscape",
+				"link_title":"See Live",
+				"thumb":"http://abiralneupane.com.np/data/data/portfolio/panscape-thumb.jpg",
+				"medium":"http://abiralneupane.com.np/data/data/portfolio/panscape-770.jpg",
+				"large":"http://abiralneupane.com.np/data/data/portfolio/panscape.jpg",
+				"url":"http://panscape.co.nz/",
+				"excerpt":"Panscape is a bakery that offers various forms of delightful foods.",
+				"description":"Panscape is a site for a famous bakery in Auckland, which offers differnt types of Bakery Item. In the site, you can find different food menus offered by them."
+			}
+		],
+		"coursewares":[
+			{
+				"title":"Fast Track on WordPress",
+				"link_title":"Download",
+				"thumb":"http://abiralneupane.com.np/data/data/portfolio/fasttrack-thumb.jpg",
+				"medium":"http://abiralneupane.com.np/data/data/portfolio/fasttrack-770.jpg",
+				"large":"http://abiralneupane.com.np/data/data/portfolio/fasttrack.jpg",
+				"url":"http://abiralneupane.com.np/data/data/files/FastTrack%20on%20WordPress.pdf",
+				"excerpt":"A book outline for WordPress beginners",
+				"description":"This courseware was designed to help those people who want to learn WordPress, but do not know where to get started and what's next. I have added all the relevant links as I don't want my readers to bound within my knowledege. So, follow the book outline, I am sure, you can master WordPress"
+			}
+		],
+		"plugins":[
+			{
+				"title":"Idle User Logout",
+				"link_title":"Goto WordPress.Org",
+				"thumb":"http://abiralneupane.com.np/data/data/portfolio/idleUserLogout.jpg",
+				"medium":"http://abiralneupane.com.np/data/data/portfolio/idleUserLogout-770.jpg",
+				"large":"http://abiralneupane.com.np/data/data/portfolio/idleUserLogout.jpg",
+				"url":"https://wordpress.org/plugins/idle-user-logout/",
+				"excerpt":"A plugin that kicks out Idle User from the site after some specific time",
+				"description":"<p>This plugin automatically logs out the user after a period of idle time.</p><p>If the user has been inactive for too long, then the user is automatically logged out and redirected to login page.</p><p>It tracks the users activity in both the front end and admin end.</p>"
+			}
+		]
+	},
+	"contact":{
+		"address":"Kalanki-14, Kathmandu, Nepal",
+		"phone":"+977-984-313-4111",
+		"email":"abiral.neupane@gmail.com",
+		"site":"http://abiralneupane.com.np/",
+		"skype":"rockerboi.abiral",
+		"lat":"27.6939801",
+		"long":"85.2686883"
+	},
+	"social":{
+		"facebook" : {
+			"title":"Facebook",
+			"icon":"icon facebook",
+			"font_icon":"fa fa-facebook",
+			"link":"http://www.facebook.com/AbiralN"
+		},
+		"twitter" : {
+			"title":"Twitter",
+			"icon":"icon twitter",
+			"font_icon":"fa fa-twitter",
+			"link":"http://twitter.com/born2die_abiral"
+		},
+		"linkedin" : {
+			"title":"LinkedIn",
+			"icon":"icon linkedin",
+			"font_icon":"fa fa-linkedin",
+			"link":"https://np.linkedin.com/pub/abiral-neupane/9b/868/b82"
+		},
+		"gplus" : {
+			"title":"Google Plus",
+			"icon":"icon gplus",
+			"font_icon":"fa fa-google-plus",
+			"link":"https://www.google.com/+AbiralNeupane"
+		},
+		"wordpress" : {
+			"title":"WordPress",
+			"icon":"icon wordpress",
+			"font_icon":"fa fa-wordpress",
+			"link":"https://profiles.wordpress.org/abiralneupane/"
+		}
+	},
+	"quotes":[
+		"I would rather lose myself in my passion than lose my passion"
+	]
+}
